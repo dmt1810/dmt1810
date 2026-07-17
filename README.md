@@ -1,12 +1,12 @@
 # Tuan Do
 
-### Growth marketing leader building scalable acquisition, retention, and revenue engines across Southeast Asia
+### Growth marketer building experiments, analytics systems, and scalable growth engines
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tuando.work-0A66C2?style=flat-square)](https://tuando.work)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dmt1810-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/dmt1810)
 [![Email](https://img.shields.io/badge/Email-hello%40tuando.work-222222?style=flat-square)](mailto:hello@tuando.work)
 
-I combine **performance marketing, CRM, analytics, and product thinking** to turn customer insight into measurable growth. Over 10+ years, I have worked across travel tech, insurtech, fintech, marketplaces, and agency environments.
+I combine **performance marketing, CRM, analytics, and product thinking** to turn customer insight into measurable growth. Across 10+ years, I have worked with digital products, marketplaces, and growth-stage teams in Southeast Asia.
 
 ## Selected impact
 
@@ -25,9 +25,14 @@ I combine **performance marketing, CRM, analytics, and product thinking** to tur
 - Go-to-market and market-expansion playbooks for Southeast Asia
 - Marketing dashboards that connect channel activity to business outcomes
 
-## Current focus
+## What I'm building now
 
-I currently lead growth initiatives for **FindTourGo**, a travel-customization platform connecting tour operators and travel agents across international markets.
+I'm treating GitHub as an independent growth lab—building in public and turning marketing questions into practical projects:
+
+- Growth experiments with clear hypotheses, measurement plans, and decisions
+- Analytics prototypes for funnels, cohorts, acquisition efficiency, and retention
+- Reusable playbooks for CRM, lifecycle marketing, and Southeast Asia expansion
+- Small tools and automations that help marketers move from insight to action
 
 ## Featured work
 
